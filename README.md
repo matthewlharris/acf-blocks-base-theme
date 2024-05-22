@@ -1,1 +1,1 @@
-# acf-blocks-base-theme
+# ACF Blocks base theme
