@@ -1,0 +1,107 @@
+.block-footer-1 {
+    position: relative;
+    width: 100%;
+}
+
+#footer-1-inner-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    overflow: hidden;
+    width: calc(100% - 60px);
+    max-width: 1280px;
+    margin: 0 auto;
+    border: 1px solid #333;
+    border-radius: 16px;
+}
+
+.block-footer-1 #footer-social-mobile {
+    padding: 20px;
+}
+
+.block-footer-1 #footer-social-desktop {
+    display: none;
+    padding: 20px;
+}
+
+#footer-1-inner-wrapper #footer-menus {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+#footer-1-inner-wrapper #footer-menus .menu-column-title {
+    margin-top: 0;
+}
+
+#footer-1-inner-wrapper #footer-menus ul {
+    padding-left: 0;
+}
+
+#footer-1-inner-wrapper #footer-menus ul li {
+    list-style-type: none;
+    padding: 8px 0 4px;
+}
+
+#footer-1-inner-wrapper #footer-menus ul li a:hover {
+    color: #000;
+    transition: .15s all ease;
+}
+
+#footer-1-inner-wrapper #footer-menus>div {
+    border-bottom: 1px solid #333;
+    padding: 20px;
+}
+
+#footer-1-inner-wrapper #footer-about {
+    order: -1;
+}
+
+#footer-1-inner-wrapper #footer-about-text {
+    border-bottom: 1px solid #333;
+    padding: 20px;
+}
+
+
+@media (min-width: 768px) {
+    #footer-1-inner-wrapper #footer-menus {
+        border-bottom: 1px solid #333;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    #footer-1-inner-wrapper #footer-menus>div {
+        border-bottom: none;
+    }
+
+    #footer-1-inner-wrapper #footer-menus>div:nth-child(2),
+    #footer-1-inner-wrapper #footer-menus>div:nth-child(3) {
+        border-left: 1px solid #333;
+    }
+}
+
+/* end @media (min-width: 768px) */
+
+
+
+@media (min-width: 1280px) {
+    #footer-1-inner-wrapper {
+        grid-template-columns: 2fr 1fr;
+    }
+
+    #footer-1-inner-wrapper #footer-menus {
+        border-bottom: none;
+    }
+
+    .block-footer-1 #footer-social-desktop {
+        display: grid;
+    }
+
+    .block-footer-1 #footer-social-mobile {
+        display: none;
+    }
+
+    #footer-1-inner-wrapper #footer-about {
+        order: 10;
+        border-left: 1px solid #333;
+    }
+}
+
+/* end @media (min-width: 1280px) */

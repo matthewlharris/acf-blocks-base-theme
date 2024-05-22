@@ -1,0 +1,15 @@
+/*
+Theme Name: Hello Universe!
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: hellouniverse
+Author: Hello Universe LLC
+Author URI: https://hellouniverse.co
+*/
+@import url(./css/global.css);
+@import url(./css/fonts.css);
+@import url(./blocks/full-width-image/block.css);
+@import url(./blocks/bento/block.css);
+@import url(./blocks/footer-1/block.css);
+@import url(./blocks/header-1/block.css);

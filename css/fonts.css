@@ -1,0 +1,150 @@
+/* Font: Geist */
+/* ========================== */
+/* ========================== */
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 100;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Thin.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Thin.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 200;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-UltraLight.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-UltraLight.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 300;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Light.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Regular.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Medium.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 600;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-SemiBold.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-SemiBold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 700;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Bold.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 800;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Black.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-Black.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist';
+    font-style: normal;
+    font-weight: 900;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-UltraBlack.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist/Geist-UltraBlack.woff2) format('woff2');
+}
+
+
+/* Font: Geist Mono */
+/* ========================== */
+/* ========================== */
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 100;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Thin.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Thin.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 200;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-UltraLight.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-UltraLight.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 300;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Light.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Regular.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Medium.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 600;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-SemiBold.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-SemiBold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 700;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Bold.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 800;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Black.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-Black.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'geist-mono';
+    font-style: normal;
+    font-weight: 900;
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-UltraBlack.otf) format('otf');
+    src: url(/wp-content/themes/hellouniverse/fonts/Geist.Mono/GeistMono-UltraBlack.woff2) format('woff2');
+}

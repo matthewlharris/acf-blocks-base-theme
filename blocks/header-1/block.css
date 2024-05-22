@@ -1,0 +1,34 @@
+.block-header-1 {
+    position: relative;
+    width: 100%;
+    padding: 0;
+}
+
+.block-header-1 #header-logo .logo-title {
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+.block-header-1 #header-logo .logo-subtitle {
+    font-weight: 200;
+    font-size: 1.1rem;
+    padding-bottom: 15px;
+}
+
+#header-1-inner-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    overflow: hidden;
+    width: calc(100% - 60px);
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+@media (min-width: 768px) {
+    .block-header-1 #header-logo .logo-title {
+        font-size: 3rem;
+    }
+}
+
+/* end @media (min-width: 768px) */

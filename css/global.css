@@ -1,0 +1,86 @@
+body,
+body .editor-styles-wrapper {
+  margin: 0;
+  font-family: 'geist', system-ui, 'geist-mono', Tahoma, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body label,
+body input,
+body textarea,
+body select,
+body select option,
+body .editor-styles-wrapper label,
+body .editor-styles-wrapper input,
+body .editor-styles-wrapper textarea,
+body .editor-styles-wrapper select,
+body .editor-styles-wrapper select option {
+  font-family: 'geist-mono', 'geist', system-ui, Tahoma, sans-serif !important;
+}
+
+.wp-block {
+  max-width: 100% !important;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.max-400 {
+  max-width: 400px;
+}
+
+#main-header {
+  top: 0;
+  z-index: 100;
+}
+
+#header-logo {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+#page-wrapper>div,
+.block {
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+#page-wrapper {
+  width: calc(100% - 60px);
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+
+
+@media (min-width: 768px) {
+  #header-logo {
+    font-size: 3rem;
+  }
+}
+
+
+@media (min-width: 782px) {
+  .block-editor-page .interface-complementary-area {
+    width: 400px;
+    max-width: 40vw;
+  }
+}
+
+/* end @media (min-width: 782px) */
+
+
+
+@media (min-width: 1280px) {
+  .block-editor-page .interface-complementary-area {
+    width: 500px;
+  }
+}
+
+/* end @media (min-width: 1280px) */

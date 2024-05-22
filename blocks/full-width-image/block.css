@@ -1,0 +1,9 @@
+.block.full-width-image {
+    position: relative;
+    width: 100%;
+}
+
+.block.full-width-image img {
+    position: relative;
+    width: 100%;
+}
