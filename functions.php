@@ -50,13 +50,6 @@ function acf_init_block_types() {
     ));
 
     acf_register_block_type(array(
-      'name'            => 'bento',
-      'title'           => 'Bento Grid',
-      'render_template' => 'blocks/bento/block.php',
-      'keywords'        => array( 'bento', 'grid' ),
-    ));
-
-    acf_register_block_type(array(
       'name'            => 'footer-1',
       'title'           => 'Footer 1',
       'render_template' => 'blocks/footer-1/block.php',
