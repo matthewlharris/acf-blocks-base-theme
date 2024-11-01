@@ -1,6 +1,6 @@
 # acf blocks base theme
 
-you'll see 3 block types registered in the functions.php file:
+you'll see 3 custom blocks registered in the functions.php file:
 - header-1
 - footer-1
 - full-width-image
