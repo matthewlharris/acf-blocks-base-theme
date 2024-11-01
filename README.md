@@ -41,7 +41,7 @@ the front end stylesheet is enqueued in the dashboard so you can see preview sty
 
 import the acf-export.json file under acf > tools, to get the starter fields for the example acf blocks. from the import you'll see:
 
-one options page:
+1 options page:
 - theme options
 
 4 field groups:
