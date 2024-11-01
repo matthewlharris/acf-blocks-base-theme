@@ -54,8 +54,10 @@ import the acf-export.json file under acf > tools, to get the starter fields for
 - headers
 - footers
 
-the header and footer field groups go with the header/footer registered blocks. these blocks are then added to new "posts" of the header and footer types, allowing you to design different headers and footers.
+the header and footer field groups go with the header/footer registered custom blocks. you can then use these blocks to make new "posts" of the header and footer post types, allowing you to design different headers and footers. you can edit these custom blocks and also register your own new header/footer blocks and then add new field groups to each to give you more block options when designing new headers and footers. 
 
 on the theme options page you'll see custom fields for header and footer which will let you change to any header or footer within your header/footer post types.
+
+I also plan to add in an option to change headers/footers on a per page basis to allow for custom landing pages with tailored headers & footers.
 
 
